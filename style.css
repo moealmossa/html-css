@@ -1,0 +1,27 @@
+.right {
+    column-count: 4;
+    text-align: center;
+    font-family: 'Barlow Condensed', sans-serif;
+    color: white;
+    background-image: ;
+}
+
+.hey {
+    text-align: right;
+
+}
+
+.one {
+    padding: 20px;
+    text-align: right;
+}
+
+.two {
+    padding: 20px;
+    text-align: left;
+}
+
+.three {
+    padding: 20px;
+    text-align: left;
+}
