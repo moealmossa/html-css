@@ -1,9 +1,6 @@
-let age = 25;
+const title = document.querySelector('p');
 
-// loose comparison(different types still be equal)
 
-console.log(age == 25);
-console.log(age=='25');
-
-// strict comparison(different types cannot be equal)
-
+content.classList.add('error');
+content.classList.remove('error');
+content.classList.add('success');
